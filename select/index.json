@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "There's No Moonlight This Night（Original Game Soundtrack）",
+  "base_artist": "Wuthering Waves、Kendra Dantes和Obadiah Brown-Beach",
+  "createdAt": "2026-03-23T08:50:14.099880Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "There's No Moonlight This Night(Original Game Soundtrack)",
+      "artist": "Wuthering Waves",
+      "has_synced": true,
+      "path": "select/01_There's_No_Moonlight_This_Night(Original_Game_Soundtrack)_Wuthering_Waves.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "There's No Moonlight This Night（Original Game Soundtrack）",
+      "artist": "Wuthering Waves, Kendra Dantes, Obadiah Brown-Beach",
+      "has_synced": true,
+      "path": "select/02_There's_No_Moonlight_This_Night(Original_Game_Soundtrack)_Wuthering_Waves,_Kendra_Dantes,_Obadiah_Brown-Beach.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "There's No Moonlight This Night（Original Game Soundtrack）",
+      "artist": "Wuthering Waves, Kendra Dantes y Obadiah Brown-Beach",
+      "has_synced": true,
+      "path": "select/03_There's_No_Moonlight_This_Night(Original_Game_Soundtrack)_Wuthering_Waves,_Kendra_Dantes_y_Obadiah_Brown-Beach.lrc"
+    }
+  ]
+}
